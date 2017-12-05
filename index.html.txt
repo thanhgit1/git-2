@@ -1,5 +1,10 @@
 index
 
 
+<<<<<<< HEAD
 
 html html 2 s
+=======
+sua doi index
+sua doi index2
+>>>>>>> 76a2df2356a0849d2188c8865923b5585e88c00d
