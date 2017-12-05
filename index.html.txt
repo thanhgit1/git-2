@@ -1,6 +1,4 @@
 index
 
 
-
-index thanh1
-index thanh2
+sua doi index
