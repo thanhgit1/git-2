@@ -2,5 +2,4 @@ index
 
 
 
-index thanh1
-index thanh2
+html html 2 s
