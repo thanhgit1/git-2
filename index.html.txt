@@ -1,2 +1,6 @@
 index
+
+
+
 index thanh1
+index thanh2
